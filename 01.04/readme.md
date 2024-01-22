@@ -33,3 +33,4 @@ git config --global --unset core.gitproxy
 лк 3
 если есть папка .git то команду git init
 команда config настраиваются на пк (1 раз)
+git remote используется один раз
