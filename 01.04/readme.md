@@ -34,3 +34,10 @@ git config --global --unset core.gitproxy
 если есть папка .git то команду git init
 команда config настраиваются на пк (1 раз)
 git remote используется один раз
+
+Пароли :
+qwerty - debian
+12345678 - red os
+![изображение](https://github.com/Hottabik/6semestr/assets/113089655/7c4fc59d-369f-48c9-aee7-5bce4042e30e)
+![изображение](https://github.com/Hottabik/6semestr/assets/113089655/a9c805ff-ee42-420e-9e43-fe7028971dd1)
+
