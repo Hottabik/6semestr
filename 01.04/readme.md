@@ -41,3 +41,14 @@ qwerty - debian
 ![изображение](https://github.com/Hottabik/6semestr/assets/113089655/7c4fc59d-369f-48c9-aee7-5bce4042e30e)
 ![изображение](https://github.com/Hottabik/6semestr/assets/113089655/a9c805ff-ee42-420e-9e43-fe7028971dd1)
 
+05.02 - Работа с файлами
+1) Создание
+2) Перемещение
+3) Редактировани
+4) Удаление
+Обычный файл (Regular file)
+1) touch churka.txt
+2) mv churka.txt /home/stud
+3) nano /home/stud/churka.txt ; cat  /home/stud/churka.txt
+4) rm  /home/stud/churka.txt
+![image](https://github.com/Hottabik/6semestr/assets/113089655/945d2fe0-4784-4de9-9abe-ae114f47e2ff)
