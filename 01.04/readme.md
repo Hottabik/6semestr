@@ -66,5 +66,10 @@ qwerty - debian
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/945d2fe0-4784-4de9-9abe-ae114f47e2ff)
 
 Папка (DIrectory)
+1) mkdir ussr
+2) mv  /home/stud/ussr /home/stud/reich
+3) ls /home/stud/reich
+4) rm -r  /home/stud/reich
 
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/c8be093a-37a2-4f48-84ad-94d12ab7817a)
+
