@@ -52,3 +52,5 @@ qwerty - debian
 3) nano /home/stud/churka.txt ; cat  /home/stud/churka.txt
 4) rm  /home/stud/churka.txt
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/945d2fe0-4784-4de9-9abe-ae114f47e2ff)
+Папка (DIrectory)
+![image](https://github.com/Hottabik/6semestr/assets/113089655/c8be093a-37a2-4f48-84ad-94d12ab7817a)
