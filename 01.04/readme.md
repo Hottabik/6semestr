@@ -73,6 +73,9 @@ qwerty - debian
 
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/c8be093a-37a2-4f48-84ad-94d12ab7817a)
 
+жесткая ссылка:
+ln London.txt Manch.txt
+
 12.02.24
 Устройства:
 1. Символьные (мышка клавиатура)
