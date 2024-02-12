@@ -73,3 +73,15 @@ qwerty - debian
 
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/c8be093a-37a2-4f48-84ad-94d12ab7817a)
 
+12.02.24
+Устройства:
+1. Символьные (мышка клавиатура)
+2. Блочные (Флешки)
+   ![image](https://github.com/Hottabik/6semestr/assets/113089655/5343dd85-e6d1-452b-b6e7-0e4cf3fe9427)
+mknod blockf b 5 100
+ls -la
+nano blockf
+rm blockf
+ls -la
+![image](https://github.com/Hottabik/6semestr/assets/113089655/729bb147-4503-48f0-b1c4-33a5a182b253)
+
