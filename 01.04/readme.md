@@ -89,6 +89,7 @@ ls -la
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/729bb147-4503-48f0-b1c4-33a5a182b253)
 Файлам присваивается уникальный номер (инод), посмотреть командой i1
 Жесткие ссылки имеют тот же номер , что и исходный файл и это можно использовать , чтобы найти все жесткие ссылки.
+Скрипты
 ![изображение](https://github.com/Hottabik/6semestr/assets/113089655/10c50f65-15a9-4c5c-b382-a2d424a446a9)
 ![изображение](https://github.com/Hottabik/6semestr/assets/113089655/add49044-8057-4938-b5c1-be4bfa3e94aa)
 ![изображение](https://github.com/Hottabik/6semestr/assets/113089655/2878700e-880c-4d16-ba54-e0d3f91fe883)
