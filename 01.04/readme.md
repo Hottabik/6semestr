@@ -90,7 +90,7 @@ ls -la
 Файлам присваивается уникальный номер (инод), посмотреть командой i1
 Жесткие ссылки имеют тот же номер , что и исходный файл и это можно использовать , чтобы найти все жесткие ссылки.
 
-
+https://docs.google.com/document/d/1z27O5xLblWKjIxcXRZnbd1smm-oYa8bt/edit#heading=h.djklet2cwec6
 
 ![изображение](https://github.com/Hottabik/6semestr/assets/113089655/10c50f65-15a9-4c5c-b382-a2d424a446a9)
 ![изображение](https://github.com/Hottabik/6semestr/assets/113089655/add49044-8057-4938-b5c1-be4bfa3e94aa)
