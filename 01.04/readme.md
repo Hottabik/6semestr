@@ -95,3 +95,10 @@ https://docs.google.com/document/d/1z27O5xLblWKjIxcXRZnbd1smm-oYa8bt/edit#headin
 ![изображение](https://github.com/Hottabik/6semestr/assets/113089655/10c50f65-15a9-4c5c-b382-a2d424a446a9)
 ![изображение](https://github.com/Hottabik/6semestr/assets/113089655/add49044-8057-4938-b5c1-be4bfa3e94aa)
 ![изображение](https://github.com/Hottabik/6semestr/assets/113089655/2878700e-880c-4d16-ba54-e0d3f91fe883)
+![image](https://github.com/Hottabik/6semestr/assets/113089655/6d23a08c-82eb-4b34-863f-e44d0c704e8b)
+
+
+
+![image](https://github.com/Hottabik/6semestr/assets/113089655/af6b30ab-4543-4b4f-a1e2-40766bbae5d0)
+
+ЛК 19.02
