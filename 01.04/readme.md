@@ -96,9 +96,15 @@ https://docs.google.com/document/d/1z27O5xLblWKjIxcXRZnbd1smm-oYa8bt/edit#headin
 ![изображение](https://github.com/Hottabik/6semestr/assets/113089655/add49044-8057-4938-b5c1-be4bfa3e94aa)
 ![изображение](https://github.com/Hottabik/6semestr/assets/113089655/2878700e-880c-4d16-ba54-e0d3f91fe883)
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/6d23a08c-82eb-4b34-863f-e44d0c704e8b)
-
-
+![image](https://github.com/Hottabik/6semestr/assets/113089655/2d5a439e-3384-4e5c-91ff-ee2336c5245e)
+![image](https://github.com/Hottabik/6semestr/assets/113089655/af5c5705-47b9-40d2-aa5c-46c4b3b112f5)
+![image](https://github.com/Hottabik/6semestr/assets/113089655/2e376d05-1e95-4e2f-a78a-e9c69826aeca)
 
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/af6b30ab-4543-4b4f-a1e2-40766bbae5d0)
-
 ЛК 19.02
+![image](https://github.com/Hottabik/6semestr/assets/113089655/2a14b0d2-b54c-4c41-b6a7-b34f5e194eea)
+Имя пользователя:
+Место под пароль в файле пароля 
+1000:1000
+номер пользователя:Номер группы
+stud:x:1000:1000:Student,,,:/home/stud:/bin/bash
