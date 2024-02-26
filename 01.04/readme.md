@@ -115,5 +115,8 @@ stud:x:1000:1000:Student,,,:/home/stud:/bin/bash
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/16695f01-64c5-47ea-b6a7-07c48b8a315f)
 #Red os
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/a619335c-b8ad-476d-a3b2-34fd7ef6bf25)
+![image](https://github.com/Hottabik/6semestr/assets/113089655/48f708a9-49ed-429b-84e1-08ea2a758b57)
+![image](https://github.com/Hottabik/6semestr/assets/113089655/d86fc13e-b508-4364-b634-d52e59501690)
+![image](https://github.com/Hottabik/6semestr/assets/113089655/b2c36d57-7701-41d0-a3b5-336ab2da3e54)
 
 
