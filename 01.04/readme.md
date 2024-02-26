@@ -113,10 +113,16 @@ stud:x:1000:1000:Student,,,:/home/stud:/bin/bash
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/4b9126ac-0d64-4445-8b68-63d437d8fd0b)
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/8b25a89c-2ae2-4568-8006-70653b05c6ce)
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/16695f01-64c5-47ea-b6a7-07c48b8a315f)
+![image](https://github.com/Hottabik/6semestr/assets/113089655/839c8072-7fb2-49a9-9358-714c5fa26345)
+![image](https://github.com/Hottabik/6semestr/assets/113089655/a53d36cb-e388-40b7-851a-7f6993bb5995)
+
+
 #Red os
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/a619335c-b8ad-476d-a3b2-34fd7ef6bf25)
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/48f708a9-49ed-429b-84e1-08ea2a758b57)
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/d86fc13e-b508-4364-b634-d52e59501690)
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/b2c36d57-7701-41d0-a3b5-336ab2da3e54)
+![image](https://github.com/Hottabik/6semestr/assets/113089655/a790cbd8-1d23-4412-aa31-fbf1fbcd7d16)
+![image](https://github.com/Hottabik/6semestr/assets/113089655/9d9cce5f-5d4b-4129-a18c-4708aea41383)
 
 
