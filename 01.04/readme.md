@@ -130,4 +130,8 @@ stud:x:1000:1000:Student,,,:/home/stud:/bin/bash
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/a790cbd8-1d23-4412-aa31-fbf1fbcd7d16)
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/9d9cce5f-5d4b-4129-a18c-4708aea41383)
 
-
+4 Тема
+![image](https://github.com/Hottabik/6semestr/assets/113089655/c4bcb330-ce92-48c3-a7c9-411123fe0235)
+![image](https://github.com/Hottabik/6semestr/assets/113089655/6aab8f2a-d8f2-4d9b-93c5-a86862436589)
+![image](https://github.com/Hottabik/6semestr/assets/113089655/226572bf-d485-4bd0-9cc1-ca86ee9a87cb)
+![image](https://github.com/Hottabik/6semestr/assets/113089655/0ebb9dbb-11d6-40bd-b589-06e03ab30402)
