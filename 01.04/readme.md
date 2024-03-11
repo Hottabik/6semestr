@@ -140,3 +140,13 @@ Red os
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/9483b168-2651-41f3-b193-4edcf30968f3)
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/81bc43fb-2dd3-4204-92c3-ed6ffc7588d9)
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/557cff72-d552-42bc-aca4-374f2d530641)
+5 тема 
+Атрибуты процесса:
+1) Pid - уникальный индефикатор
+2) Адресация областей памяти
+3) fd - открытые файловые дискрипторы
+4) обработчики сигналов процесса
+5) код выхода
+6) рабочий каталог
+![image](https://github.com/Hottabik/6semestr/assets/113089655/cbabab8f-3c4b-42ab-b121-8721c5292e61)
+первый процесс это инит
