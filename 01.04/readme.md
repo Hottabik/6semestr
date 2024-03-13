@@ -170,5 +170,8 @@ ready - процесс готов к работе или в очереди.
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/f75b812b-e76b-4af0-8c18-24838684686f)
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/b013c38b-6065-44f7-9ba3-019f31a7dbbb)
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/de7ebb76-f8a2-43bc-9fb8-162cc393e1ed)
+![image](https://github.com/Hottabik/6semestr/assets/113089655/8f31bfd9-5b38-452c-8b99-a9a4b08ca998)
+![image](https://github.com/Hottabik/6semestr/assets/113089655/cbe04e1d-c53f-48c6-bf04-3dd4e005c0a6)
+![image](https://github.com/Hottabik/6semestr/assets/113089655/15db55cb-35b0-4a43-824b-5c222f27f71c)
 
 
