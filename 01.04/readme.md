@@ -165,3 +165,10 @@ ready - процесс готов к работе или в очереди.
 программные - все что с программмами
 планировщик процессов:
 вытесняющая(планировщик сам) и кооперативная(пк сам выбирает) многозадачность
+
+![image](https://github.com/Hottabik/6semestr/assets/113089655/222a3f08-0603-4f67-b27e-ed755bfc3c27)
+![image](https://github.com/Hottabik/6semestr/assets/113089655/f75b812b-e76b-4af0-8c18-24838684686f)
+![image](https://github.com/Hottabik/6semestr/assets/113089655/b013c38b-6065-44f7-9ba3-019f31a7dbbb)
+![image](https://github.com/Hottabik/6semestr/assets/113089655/de7ebb76-f8a2-43bc-9fb8-162cc393e1ed)
+
+
