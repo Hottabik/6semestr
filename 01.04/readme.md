@@ -51,7 +51,7 @@ qwerty - debian
 ![изображение](https://github.com/Hottabik/6semestr/assets/113089655/7c4fc59d-369f-48c9-aee7-5bce4042e30e)
 
 ![изображение](https://github.com/Hottabik/6semestr/assets/113089655/a9c805ff-ee42-420e-9e43-fe7028971dd1)
-
+# тема 2
 05.02 - Работа с файлами
 1) Создание
 2) Перемещение
@@ -104,7 +104,7 @@ https://docs.google.com/document/d/1z27O5xLblWKjIxcXRZnbd1smm-oYa8bt/edit#headin
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/1e515794-86b9-4c3c-a439-e90ea74913be)
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/14238dd8-5d6d-4d95-840d-c84a0dcdc5eb)
 
-
+# тема 3 
 # ЛК 19.02
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/2a14b0d2-b54c-4c41-b6a7-b34f5e194eea)
 Имя пользователя:
@@ -122,7 +122,7 @@ stud:x:1000:1000:Student,,,:/home/stud:/bin/bash
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/a53d36cb-e388-40b7-851a-7f6993bb5995)
 
 
-#Red os
+Red os
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/a619335c-b8ad-476d-a3b2-34fd7ef6bf25)
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/48f708a9-49ed-429b-84e1-08ea2a758b57)
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/d86fc13e-b508-4364-b634-d52e59501690)
@@ -185,3 +185,15 @@ E) Блокировка файла (англ. file locking) — механизм
 1) Синхронные действия процесса – те, которые выполняются в основном потоке, в рамках одного экземпляра процесса. Ключевое отличие синхронного режима: следующее действие начинается только тогда, когда завершено предыдущее. Соответственно, пока одно действие не завершено, процесс стоит колом.
 2) Асинхронные действия – те, которые выполняются параллельно основному потоку, либо в том же экземпляре процесса, либо вообще в другом процессе. Ключевое отличие асинхронного режима: параллельное выполнение двух и более ветвей процесса.
 # Тема 6 Докер Брокеры
+RabbitMQ - брокер с открытым исходным кодом.
+![image](https://github.com/Hottabik/6semestr/assets/113089655/298ef00e-2652-461b-9725-be5b6d8ac457)
+у нас есть и издатель и потребитель.
+сообщения хранятся в очереди (q1, q2 ....)
+excange - обмен 
+bindings - распределение между очередями 
+docker - с открытым ПО, позволяет переносить программные продукты.
+![image](https://github.com/Hottabik/6semestr/assets/113089655/f69827c5-1676-47dc-91b1-7998b28c628d)
+клиент - интерфейс 
+демон - фактически управление
+контейнер - наша прога
+образ - конфигурация в файле
