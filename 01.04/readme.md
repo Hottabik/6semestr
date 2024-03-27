@@ -105,7 +105,7 @@ https://docs.google.com/document/d/1z27O5xLblWKjIxcXRZnbd1smm-oYa8bt/edit#headin
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/14238dd8-5d6d-4d95-840d-c84a0dcdc5eb)
 
 
-ЛК 19.02
+# ЛК 19.02
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/2a14b0d2-b54c-4c41-b6a7-b34f5e194eea)
 Имя пользователя:
 Место под пароль в файле пароля 
@@ -130,7 +130,7 @@ stud:x:1000:1000:Student,,,:/home/stud:/bin/bash
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/a790cbd8-1d23-4412-aa31-fbf1fbcd7d16)
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/9d9cce5f-5d4b-4129-a18c-4708aea41383)
 
-4 Тема
+# 4 Тема
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/c4bcb330-ce92-48c3-a7c9-411123fe0235)
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/6aab8f2a-d8f2-4d9b-93c5-a86862436589)
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/226572bf-d485-4bd0-9cc1-ca86ee9a87cb)
@@ -140,7 +140,7 @@ Red os
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/9483b168-2651-41f3-b193-4edcf30968f3)
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/81bc43fb-2dd3-4204-92c3-ed6ffc7588d9)
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/557cff72-d552-42bc-aca4-374f2d530641)
-5 тема 
+# 5 тема 
 Атрибуты процесса:
 1) Pid - уникальный индефикатор
 2) Адресация областей памяти
@@ -184,3 +184,4 @@ D) Мьютекс (mutex - mut ually ex clusive), который также на
 E) Блокировка файла (англ. file locking) — механизм, который ограничивает доступ к файлу, давая доступ в данный момент только одному пользователю или процессу. Системы реализуют блокировку для предотвращения классического interceding update сценария (который является типичным примером состояния гонки) посредством принуждения к последовательным процессам обновления любого файла.
 1) Синхронные действия процесса – те, которые выполняются в основном потоке, в рамках одного экземпляра процесса. Ключевое отличие синхронного режима: следующее действие начинается только тогда, когда завершено предыдущее. Соответственно, пока одно действие не завершено, процесс стоит колом.
 2) Асинхронные действия – те, которые выполняются параллельно основному потоку, либо в том же экземпляре процесса, либо вообще в другом процессе. Ключевое отличие асинхронного режима: параллельное выполнение двух и более ветвей процесса.
+# Тема 6 Докер Брокеры
